@@ -11,6 +11,17 @@ figure: Mapping System
 1: Galvanometer (controlled by control panel which receive signal from DAC to Rotate the mirror)   
 2: positioning stage where the sample is placed
 
+
+<img width="444" alt="827920b08cd2234ec35a2f183649fd8b" src="https://github.com/user-attachments/assets/4643f64e-aa7a-40c6-982f-67acfff86712">
+
+figure: Mapping System
+
+1:
+2:
+3:
+4:
+
+
 <img width="570" alt="8d0451e4385d26d2c07268fba696edfd" src="https://github.com/user-attachments/assets/41b8fc4c-93b3-408d-8c19-3cc15a5edfde">
 
 
