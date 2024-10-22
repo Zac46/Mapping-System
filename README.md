@@ -16,10 +16,10 @@ figure: Mapping System
 
 figure: Mapping System
 
-1:
-2:
-3:
-4:
+1:STM32 Microchip    
+2:DAc module                      
+3:STLINK for downloading program into STM32                           
+4:USB Serial port for Controlling the Mapping System by LabVIEW Program
 
 
 <img width="570" alt="8d0451e4385d26d2c07268fba696edfd" src="https://github.com/user-attachments/assets/41b8fc4c-93b3-408d-8c19-3cc15a5edfde">
