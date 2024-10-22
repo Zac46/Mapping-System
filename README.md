@@ -11,6 +11,8 @@ Scanning Shape: a rectangular area with length and width on the scale of tens of
 Figure 1: Mapping System
 
 1: Galvanometer (controlled by control panel which receive signal from DAC to Rotate the mirror)   
+
+
 2: positioning stage where the sample is placed
 
 
