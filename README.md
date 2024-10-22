@@ -6,17 +6,24 @@ Scanning Shape: a rectangular area with length and width on the scale of tens of
 
 ![6739a698c32b4ef74ced8945ac46ddad](https://github.com/user-attachments/assets/193e3148-b28a-499a-b0fb-e5add9e2ad9d)
 
+figure: Mapping System
+
 1: Galvanometer (controlled by control panel which receive signal from DAC to Rotate the mirror)   
 2: positioning stage where the sample is placed
 
 ![image](https://github.com/user-attachments/assets/cbd6e5d4-63e0-41ab-944f-124f45f38eb5)
+
 figure:Galvanometer and Control panel
 
+<img src="https://github.com/user-attachments/assets/6cae5f3e-6cb5-4db4-9798-1b380acc3270" alt="Galvanometer and Control panel" width="500"/>
+
 ![image](https://github.com/user-attachments/assets/6cae5f3e-6cb5-4db4-9798-1b380acc3270)
+
 figure:STM32F103C8T6            
 
 
 ![image](https://github.com/user-attachments/assets/598597ba-bbbc-4bbf-8d1c-7a55e6acf6c7)
+
 figure: DAC module             
 
 <img width="569" alt="105dcc2bf224f5d5993e76a70a4fec41" src="https://github.com/user-attachments/assets/5e869c64-60ad-4706-80ce-062101bd62a9">
