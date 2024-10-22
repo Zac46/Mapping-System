@@ -33,7 +33,8 @@ figure: Mapping System
 figure: testing resolution/precision of  mapping system, there are about 200 steps between each testing point that were recorded
 
 
-![image](https://github.com/user-attachments/assets/5b9c3676-b519-4903-9a7c-39c1aa8bb675)
+<img width="570" alt="105dcc2bf224f5d5993e76a70a4fec41" src="https://github.com/user-attachments/assets/5b9c3676-b519-4903-9a7c-39c1aa8bb675">
+
 
 figure: LabVIEW interface for doing Mapping and controlling the galvanometer
 
