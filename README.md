@@ -18,11 +18,13 @@ figure:Galvanometer and Control panel
 <img src="https://github.com/user-attachments/assets/6cae5f3e-6cb5-4db4-9798-1b380acc3270" alt="Galvanometer and Control panel" width="500"/>
 
 figure:STM32F103C8T6            
+
 <img src="https://github.com/user-attachments/assets/598597ba-bbbc-4bbf-8d1c-7a55e6acf6c7" alt="Galvanometer and Control panel" width="500"/>
 
 figure: DAC module             
 
 <img width="569" alt="105dcc2bf224f5d5993e76a70a4fec41" src="https://github.com/user-attachments/assets/5e869c64-60ad-4706-80ce-062101bd62a9">
+
 figure: testing resolution/precision of  mapping system, there are about 200 steps between each testing point that were recorded
 
 
