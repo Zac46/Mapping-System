@@ -16,8 +16,8 @@ figure: Mapping System
 
 figure: testing resolution/precision of  mapping system, there are about 200 steps between each testing point that were recorded
 
+<img src="https://github.com/user-attachments/assets/cbd6e5d4-63e0-41ab-944f-124f45f38eb5" alt="Galvanometer and Control panel" width="500"/>
 
-![image](https://github.com/user-attachments/assets/cbd6e5d4-63e0-41ab-944f-124f45f38eb5)
 
 figure:Galvanometer and Control panel
 
