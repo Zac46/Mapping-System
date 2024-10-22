@@ -6,7 +6,9 @@ Scanning Shape: a rectangular area with length and width on the scale of tens of
 
 ![6739a698c32b4ef74ced8945ac46ddad](https://github.com/user-attachments/assets/193e3148-b28a-499a-b0fb-e5add9e2ad9d)
 
-figure: Mapping System
+
+
+Figure 1: Mapping System
 
 1: Galvanometer (controlled by control panel which receive signal from DAC to Rotate the mirror)   
 2: positioning stage where the sample is placed
@@ -14,7 +16,7 @@ figure: Mapping System
 
 <img width="444" alt="827920b08cd2234ec35a2f183649fd8b" src="https://github.com/user-attachments/assets/4643f64e-aa7a-40c6-982f-67acfff86712">
 
-figure: Mapping System
+Figure 2: Mapping System
 
 1:STM32 Microchip    
 
@@ -30,26 +32,28 @@ figure: Mapping System
 
 <img width="570" alt="105dcc2bf224f5d5993e76a70a4fec41" src="https://github.com/user-attachments/assets/5e869c64-60ad-4706-80ce-062101bd62a9">
 
-figure: testing resolution/precision of  mapping system, there are about 200 steps between each testing point that were recorded
+
+
+Figure 3&4: testing resolution/precision of  mapping system, there are about 200 steps between each testing point that were recorded
 
 
 <img width="570" alt="105dcc2bf224f5d5993e76a70a4fec41" src="https://github.com/user-attachments/assets/5b9c3676-b519-4903-9a7c-39c1aa8bb675">
 
 
-figure: LabVIEW interface for doing Mapping and controlling the galvanometer
+Figure 5: LabVIEW interface for doing Mapping and controlling the galvanometer
 
 
 <img src="https://github.com/user-attachments/assets/cbd6e5d4-63e0-41ab-944f-124f45f38eb5" alt="Galvanometer and Control panel" width="500"/>
 
 
-figure:Galvanometer and Control panel
+Figure 6:Galvanometer and Control panel
 
 <img src="https://github.com/user-attachments/assets/6cae5f3e-6cb5-4db4-9798-1b380acc3270" alt="Galvanometer and Control panel" width="500"/>
 
-figure:STM32F103C8T6            
+Figure 7:STM32F103C8T6            
 
 <img src="https://github.com/user-attachments/assets/598597ba-bbbc-4bbf-8d1c-7a55e6acf6c7" alt="Galvanometer and Control panel" width="500"/>
 
-figure: DAC module             
+Figure 8: DAC module             
 
 
