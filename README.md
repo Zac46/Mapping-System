@@ -17,8 +17,11 @@ figure: Mapping System
 figure: Mapping System
 
 1:STM32 Microchip    
-2:DAc module                      
-3:STLINK for downloading program into STM32                           
+
+2:DAc module              
+
+3:STLINK for downloading program into STM32       
+
 4:USB Serial port for Controlling the Mapping System by LabVIEW Program
 
 
