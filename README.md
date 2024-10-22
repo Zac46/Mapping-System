@@ -17,12 +17,8 @@ figure:Galvanometer and Control panel
 
 <img src="https://github.com/user-attachments/assets/6cae5f3e-6cb5-4db4-9798-1b380acc3270" alt="Galvanometer and Control panel" width="500"/>
 
-![image](https://github.com/user-attachments/assets/6cae5f3e-6cb5-4db4-9798-1b380acc3270)
-
 figure:STM32F103C8T6            
-
-
-![image](https://github.com/user-attachments/assets/598597ba-bbbc-4bbf-8d1c-7a55e6acf6c7)
+<img src="https://github.com/user-attachments/assets/598597ba-bbbc-4bbf-8d1c-7a55e6acf6c7" alt="Galvanometer and Control panel" width="500"/>
 
 figure: DAC module             
 
