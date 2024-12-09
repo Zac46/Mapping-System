@@ -81,7 +81,8 @@ Figure 12 & 13: Scanning result at a 0.5um step  
 
 <img width="700" alt="bb2e557c0ee9368c7e2644a1adc25fc7" src="https://github.com/user-attachments/assets/89b99f98-211e-431e-a0d0-01f58fa12f3a">
 
-<img width="700" alt="89df1692515f5b182c98b7043129045f" src="https://github.com/user-attachments/assets/7b68c038-f492-45be-a6b1-1c2360edc9a6">
+<img width="700" alt="e20987d78f0ebfdd54621ae49f94fcd4" src="https://github.com/user-attachments/assets/6437559f-6bd6-42a7-90d7-d3457ab199a8">
+
 
 Figure 12 & 13: Scanning result at a 0.3um step 
 
