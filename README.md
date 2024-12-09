@@ -76,6 +76,8 @@ Figure 11: Scanning area on WSe2(left pictures show the laser points on the samp
 
 <img width="700" alt="27829b21b146cd2c7938bd8e1545bc98" src="https://github.com/user-attachments/assets/d755f14d-7b6f-40ea-9405-9a239b4fa8a6">
 
+
+
 Figure 12 & 13: Scanning result at a 0.5um step  
 
 
