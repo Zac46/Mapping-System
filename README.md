@@ -60,31 +60,28 @@ Figure 8: DAC module      
 
 The functionality of Mapping system was then confirm by a PL scannning of Monolayer & Bilayer WSe2.
 
-<img width="639" alt="816e93523e1dd32807e1242e1e07a1a1" src="https://github.com/user-attachments/assets/d681b91a-469d-4b0e-b2b6-dd4318a09082">
+<img width="550" alt="1" src="https://github.com/user-attachments/assets/ba902c69-8bfe-43a6-831a-eb1b6b553c73">
 
-
-
-<img width="537" alt="1" src="https://github.com/user-attachments/assets/ba902c69-8bfe-43a6-831a-eb1b6b553c73">
-
-<img width="641" alt="2" src="https://github.com/user-attachments/assets/225e178c-9b12-4bdd-98ff-7523d480152d">
+<img width="550" alt="2" src="https://github.com/user-attachments/assets/225e178c-9b12-4bdd-98ff-7523d480152d">
 
 Figure 9 & 10: Optical image of the device (WSe2 encapsulated by hBN)
 
 
-<img width="850" alt="mapping" src="https://github.com/user-attachments/assets/0e23047e-3aeb-448d-bd06-a0aeae7f8b56">
+<img width="700" alt="mapping" src="https://github.com/user-attachments/assets/0e23047e-3aeb-448d-bd06-a0aeae7f8b56">
+
 Figure 11: Scanning area on WSe2(left pictures show the laser points on the sample to show where the scan starts and ends, which are two diagonal vertices of a rectangle) 
 
 
-<img width="909" alt="7da31d14c94fa5bf9cd643d204470969" src="https://github.com/user-attachments/assets/4b5f1e4f-dfff-48b3-b772-4f097a154601">
+<img width="700" alt="7da31d14c94fa5bf9cd643d204470969" src="https://github.com/user-attachments/assets/4b5f1e4f-dfff-48b3-b772-4f097a154601">
 
-<img width="746" alt="27829b21b146cd2c7938bd8e1545bc98" src="https://github.com/user-attachments/assets/d755f14d-7b6f-40ea-9405-9a239b4fa8a6">
+<img width="700" alt="27829b21b146cd2c7938bd8e1545bc98" src="https://github.com/user-attachments/assets/d755f14d-7b6f-40ea-9405-9a239b4fa8a6">
 
 Figure 12 & 13: Scanning result at a 0.5um step  
 
 
-<img width="914" alt="bb2e557c0ee9368c7e2644a1adc25fc7" src="https://github.com/user-attachments/assets/89b99f98-211e-431e-a0d0-01f58fa12f3a">
+<img width="700" alt="bb2e557c0ee9368c7e2644a1adc25fc7" src="https://github.com/user-attachments/assets/89b99f98-211e-431e-a0d0-01f58fa12f3a">
 
-<img width="806" alt="89df1692515f5b182c98b7043129045f" src="https://github.com/user-attachments/assets/7b68c038-f492-45be-a6b1-1c2360edc9a6">
+<img width="700" alt="89df1692515f5b182c98b7043129045f" src="https://github.com/user-attachments/assets/7b68c038-f492-45be-a6b1-1c2360edc9a6">
 
 Figure 12 & 13: Scanning result at a 0.3um step 
 
